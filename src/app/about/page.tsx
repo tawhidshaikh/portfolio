@@ -73,97 +73,49 @@ function formatPeriod(start: string, end: string): string {
 
 const timelineItems: TimelineItem[] = [
   {
-    period: formatPeriod("Sep 2025", "Present"),
-    title: "Founder (Fiaz Technologies · Full-time)",
-    url: fiazDevUrl,
-    description:
-      "Building developer-first tools, software solutions, and AI workflows for founders, startups, and growing businesses as a full-time founder.",
-    highlights: [
-      "Design and deliver product systems focused on business outcomes and user value.",
-      "Build AI and automation workflows that reduce manual operations and improve speed.",
-      "Support clients with scalable architecture, release workflows, and long-term maintenance.",
-    ],
-  },
-  {
-    period: formatPeriod("Dec 2020", "Present"),
+    period: formatPeriod("Jul 2025", "Present"),
     title:
-      "Open Source Contributor & Maintainer (Open-Source Developer) · GitHub",
+      "Research Development Software Engineer (Elcome Integrated Systems Pvt. Ltd. · Full-time)",
     description:
-      "Contributing to and maintaining a range of open-source repositories on GitHub, focused on robust tools and practical solutions for the developer community.",
+      "Developing mission-critical full-stack applications for naval operations and maritime defense systems, focusing on real-time data processing, reliability, and secure deployments.",
     highlights: [
-      "Oversee issue management, perform code reviews, and merge pull requests across active repositories.",
-      "Enhance project documentation for clarity, usability, and contributor onboarding.",
-      "Maintain high code quality while fostering collaborative development and continuous innovation.",
+      "Built multi-platform systems using Qt/C++, Python, JavaScript, and .NET for navigation, simulation, and command-and-control workflows.",
+      "Engineered scalable and secure software tailored to shipboard environments and constrained communication systems.",
+      "Modernized legacy systems using Python automation, C++ refactoring, and JavaScript frontends to improve performance and maintainability.",
+      "Worked across Qt-based UIs, C++ processing pipelines, and Python tooling for diagnostics, configuration, and automation.",
+      "Ensured compliance with cybersecurity practices and mission-critical reliability standards for defense systems.",
     ],
   },
   {
-    period: formatPeriod("Dec 2024", "Present"),
-    title: "Community Moderator (Dev Source · Full-time)",
+    period: formatPeriod("Aug 2023", "Jun 2025"),
+    title: "Research Development Software Engineer (Biosense Technologies · Full-time)",
     description:
-      "Founded Dev Source as a daily initiative to spotlight the best developer tools, frameworks, and open-source resources.",
+      "Worked on biomedical device software and system architecture for automated biochemistry analyzers in a regulated engineering environment.",
     highlights: [
-      "Research and share high-value tools that help developers ship faster and build smarter.",
-      "Create practical content for developers, startups, and engineering teams.",
-      "Build a developer-first brand that educates, inspires, and grows a global audience.",
+      "Designed and developed semi-automatic and fully automated diagnostic systems improving lab efficiency and accuracy.",
+      "Defined system architecture and ensured compliance with IEC 60601, ISO 13485, and FDA standards.",
+      "Integrated microfluidics and automated reagent handling systems to optimize diagnostic workflows.",
+      "Implemented embedded communication protocols (SPI, I2C, UART) and optimized Linux bootloaders.",
+      "Built REST APIs and ASP.NET interfaces for real-time monitoring and control.",
+      "Improved system performance by 35% using multithreading and parallel processing.",
+      "Containerized applications using Docker for scalable deployment.",
+      "Applied Agile practices with structured Git workflows and audit-ready documentation (PCO).",
     ],
   },
   {
-    period: formatPeriod("Oct 2025", "Nov 2025"),
-    title:
-      "Open Source Contributor & Project Maintainer (Hacktoberfest · Freelance)",
+    period: formatPeriod("May 2023", "Jul 2023"),
+    title: "Web Developer Intern (AONIX Pvt. Ltd. · Internship · Remote)",
     description:
-      "Contributed as a freelance open-source maintainer during Hacktoberfest 2025 with focus on repository quality and project operations.",
+      "Developed full-stack web applications using modern JavaScript frameworks and backend technologies with a focus on performance and scalability.",
     highlights: [
-      "Reviewed pull requests, triaged issues, and maintained coding standards across active projects.",
-      "Managed contribution flow and maintainer-level repository governance.",
-      "Supported contributors through practical feedback and technical direction.",
-    ],
-  },
-  {
-    period: formatPeriod("Apr 2025", "May 2025"),
-    title: "AI Intern (Edunet Foundation · Internship)",
-    description:
-      "Built and deployed machine learning solutions using Azure and worked on real-world GenAI and capstone projects.",
-    highlights: [
-      "Developed a Generative AI resume scoring system for practical candidate feedback.",
-      "Gained hands-on depth in AI concepts, cloud workflows, and data processing.",
-      "Collaborated with peers to optimize delivery under real internship constraints.",
-    ],
-  },
-  {
-    period: formatPeriod("Oct 2024", "Nov 2024"),
-    title:
-      "Open Source Developer & Project Maintainer (Hacktoberfest · Freelance)",
-    description:
-      "Contributed to and maintained multiple open-source projects for Hacktoberfest 2024, including personal and community-focused repositories.",
-    highlights: [
-      "Established contribution guides, issue templates, and labeling systems for efficient collaboration.",
-      "Reviewed and merged pull requests while maintaining project standards and consistency.",
-      "Authored and updated technical docs and project wikis to improve contributor experience.",
-      "Built open-source tools and utilities for broader developer community use.",
-    ],
-  },
-  {
-    period: formatPeriod("Sep 2023", "Oct 2023"),
-    title: "Data Science Intern (CodSoft · Internship)",
-    description:
-      "Worked across applied ML projects including fraud detection, classification, and forecasting using Python tooling.",
-    highlights: [
-      "Implemented fraud detection, iris classification, and sales prediction workflows.",
-      "Performed cleaning, visualization, and feature preparation for model quality.",
-      "Used Pandas, NumPy, Matplotlib, and Scikit-learn to build and evaluate models.",
-    ],
-  },
-  {
-    period: formatPeriod("Sep 2023", "Oct 2023"),
-    title:
-      "Open Source Developer & Project Maintainer (Hacktoberfest · Freelance)",
-    description:
-      "Contributed as a freelance maintainer and technical writer during Hacktoberfest 2023 with strong focus on collaboration and documentation quality.",
-    highlights: [
-      "Oversaw repository management by reviewing pull requests, triaging issues, and enforcing best practices.",
-      "Authored contribution guidelines and onboarding documentation for new contributors.",
-      "Collaborated with global developers to maintain an inclusive and productive open-source workflow.",
+      "Built reusable UI components using React.js and Next.js with optimized state management.",
+      "Developed RESTful APIs using Node.js and Express.js for business logic and data processing.",
+      "Integrated MongoDB with efficient schema design, indexing, and query handling.",
+      "Implemented authentication, authorization, and input validation for secure applications.",
+      "Used Express middleware for logging, error handling, and request processing.",
+      "Integrated frontend with backend APIs ensuring consistent data flow.",
+      "Applied responsive design using HTML5, CSS3, and modern JavaScript (ES6+).",
+      "Collaborated in Agile teams using Git workflows, pull requests, and code reviews.",
     ],
   },
 ];
